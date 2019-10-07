@@ -1,0 +1,38 @@
+
+#BP{
+	-fx-background-color:black ;
+}
+
+#lblMsg{
+	-fx-text-fill:rgb(230,77,77)
+}
+
+#btnLogin{
+	-fx-background-color:rgb(102,128,230) ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#btnSignIn{
+	-fx-background-color:rgb(102,128,230) ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#txtuserName{
+	-fx-background-color:black ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#txtuserPassword{
+	-fx-background-color:black ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#txtLabel{
+	-fx-background-color:black ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#btnChoosePhoto{
+	-fx-background-color:rgb(102,128,230) ;
+	-fx-text-fill:rgb(255,255,255);
+}

@@ -1,0 +1,79 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#pnSend{
+	-fx-background-color:black ;
+	-fx-border-style:solid ;
+}
+
+#pnReceive{
+	-fx-background-color:black ;
+	-fx-border-style:solid ;
+}
+
+#pnMenu{
+	-fx-background-color:black ;
+	-fx-border-style:solid ;
+}
+
+#lbluserName{
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#txtMsg{
+	-fx-background-color:black ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#ReceiverPort{
+	-fx-background-color:black ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#IP{
+	-fx-background-color:black ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#Port{
+	-fx-background-color:black ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#ChatArea{
+	-fx-background-color:rgb(102,128,230) ;
+	-fx-text-fill:black ;
+}
+
+#btnSend{
+	-fx-background-color:rgb(102,128,230) ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#btnReceive{
+	-fx-background-color:rgb(102,128,230) ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#txtFriendList{
+	-fx-text-fill:rgb(32,84,95)
+}
+
+#btnRefresh{
+	-fx-background-color:rgb(102,128,230) ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#btnDisconnect{
+	-fx-background-color:rgb(200,9,9);
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#btnFile{
+	-fx-background-color:rgb(102,128,230) ;
+	-fx-text-fill:rgb(255,255,255);
+}
+
+#btnLogin{
+	-fx-background-color:rgb(179,26,26);
+	-fx-text-fill:rgb(255,255,255);
+}
